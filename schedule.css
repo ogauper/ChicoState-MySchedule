@@ -1,0 +1,29 @@
+body{
+background-color: #F7F7F7;
+font-family: "Lucida", monospace;
+	}
+
+table {
+		text-align: left;
+	}
+tr {
+   
+   width: 130px;
+   
+ }
+ 
+ tr.dark{
+	background-color: #2C2918;
+	color: #A19B88;
+		}
+ tr.light{
+ 
+	background-color: #A19B88;
+ }
+ 
+ th {
+		text-decoration: overline;
+		font-weight: bold;
+ }
+ 
+ /* color palette: http://www.colourlovers.com/palette/137885/Grey_Toad */
